@@ -21,7 +21,7 @@ public class DispPhonesController {
     
 @RestController
 @RequestMapping("dispoPhones")
-@CrossOrigin(origins="https://localhost:8080/")
+@CrossOrigin(origins="https://proyectcarritogastyft1.web.app")
 public class DispController {
     
     @Autowired

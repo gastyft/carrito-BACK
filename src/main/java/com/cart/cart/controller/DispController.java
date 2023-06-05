@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
 //DISP ES PARA DISPOSITIVOS NOTEBOOKS.
 @RestController
 @RequestMapping("dispo")
-@CrossOrigin(origins="http://localhost:4200/")
+@CrossOrigin(origins="https://proyectcarritogastyft1.web.app")
 public class DispController {
     
     @Autowired
