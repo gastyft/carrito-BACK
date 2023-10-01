@@ -41,5 +41,4 @@ com\cart\cart\repository\DispRepository.class
 com\cart\cart\controller\DispPhonesController.class
 com\cart\cart\service\DispPhonesService.class
 com\cart\cart\security\dto\JwtDto.class
-com\cart\cart\security\util\createRoles.class
 com\cart\cart\repository\ImagenPhonesRepository.class
