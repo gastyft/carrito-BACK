@@ -2,11 +2,6 @@
 package com.cart.cart.security.util;
 
 /*
-<<<<<<< HEAD
-=======
-
- 
->>>>>>> ec19bc37e745f7d7f6f94109b1f1f1787a38b4e7
 import com.cart.cart.security.entity.Rol;
 import com.cart.cart.security.enums.RolNombre;
 import com.cart.cart.security.service.RolService;
