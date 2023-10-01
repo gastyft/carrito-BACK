@@ -23,6 +23,7 @@ C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\controller\DispPhonesC
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\repository\DispPhonesRepository.java
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\security\entity\Usuario.java
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\security\jwt\JwtEntryPoint.java
+C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\WebConfig.java
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\controller\CloudinaryNotebooksController.java
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\repository\ImagenPhonesRepository.java
 C:\Users\Usuario\Desktop\cart\src\main\java\com\cart\cart\service\CloudinaryPhonesService.java

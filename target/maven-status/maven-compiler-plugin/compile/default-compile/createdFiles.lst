@@ -27,6 +27,7 @@ com\cart\cart\security\dto\NuevoUsuario.class
 com\cart\cart\security\service\UserDetailsServiceImpl.class
 com\cart\cart\security\entity\UsuarioPrincipal.class
 com\cart\cart\security\service\RolService.class
+com\cart\cart\WebConfig.class
 com\cart\cart\model\ImagenNotebooks.class
 com\cart\cart\security\jwt\JwtEntryPoint.class
 com\cart\cart\service\IDispService.class
